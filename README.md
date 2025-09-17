@@ -1,0 +1,1 @@
+This application tracks a chosen stock ("STOCK"), using the Alpha Advantage API, and the News APi to track changes greater than a given value (5% in this case) and in case it detects it, the app will get the latest 3 news article headlines and briefs , formats them into a message and uses the Twilio API to send an SMS to a given number.
